@@ -34,7 +34,7 @@ public class EditDistance {
     public static void main(String[] args) {
         // Input strings
         String str1 = "sunday";
-        String str2 = "saturday";
+        String str2 = "saturdays";
 
         // Calculate and print the minimum edit distance between the strings
         System.out.println("Minimum Edit Distance: " + editDistance(str1, str2, str1.length(), str2.length()));
