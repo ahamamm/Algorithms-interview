@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="132a2673-ccbc-4b03-bb2e-baf714869689" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/src/book/ds/interview/ch2/dynamic/programig/LargestSquareFinder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
