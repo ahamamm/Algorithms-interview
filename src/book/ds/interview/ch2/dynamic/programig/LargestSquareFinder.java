@@ -1,5 +1,8 @@
 package book.ds.interview.ch2.dynamic.programig;
-
+/*
+Given a 2-D matrix of 0s and 1s, find the Largest Square which contains all 1s in itself
+Given a 2-D matrix of 0s and 1s, find the Largest Square which contains all 1s in itself.
+*/
 public class LargestSquareFinder {
     public static void main(String[] args) {
         // Input matrix

@@ -1,6 +1,9 @@
 package book.ds.interview.ch2.dynamic.programig;
+/*
+    Given a rod of length n inches and an array of prices that contains prices of all pieces of size smaller than n.
+    Determine the maximum value obtainable by cutting up the rod and selling the pieces.
+*/
 public class CuttingRod {
-
     // Function to find the maximum obtainable value
     // from a rod of length n with given prices
     public static int cuttingRod(int[] prices, int n) {

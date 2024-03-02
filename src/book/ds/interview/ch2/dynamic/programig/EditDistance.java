@@ -1,5 +1,12 @@
 package book.ds.interview.ch2.dynamic.programig;
-
+/*
+Minimum number of edits (operations) required to convert ‘str1’ into ‘str2’
+Given two strings str1 and str2 and below operations that can performed on str1. Find minimum number of edits (operations) required to convert ‘str1’ into ‘str2’.
+Insert
+Remove
+Replace
+All of the above operations are of equal cost.
+*/
 public class EditDistance {
     // Function to calculate the minimum edit distance between two strings
     public static int editDistance(String str1, String str2, int m, int n) {

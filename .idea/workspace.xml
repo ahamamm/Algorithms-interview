@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="132a2673-ccbc-4b03-bb2e-baf714869689" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/book/ds/interview/ch2/dynamic/programig/CuttingRod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book/ds/interview/ch2/dynamic/programig/CuttingRod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/book/ds/interview/ch2/dynamic/programig/EditDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book/ds/interview/ch2/dynamic/programig/EditDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/book/ds/interview/ch2/dynamic/programig/Knapsack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book/ds/interview/ch2/dynamic/programig/Knapsack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/book/ds/interview/ch2/dynamic/programig/LargestSquareFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book/ds/interview/ch2/dynamic/programig/LargestSquareFinder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
